@@ -2,7 +2,7 @@
 
 ![Platform iOS](https://img.shields.io/badge/Platform-iOS-informational)
 ![Language](https://img.shields.io/badge/Language-Swift-orange)
-![License](https://img.shields.io/github/license/gabrieltheodoropoulos/GTRest.svg)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
 #### Fetch, cache and handle remote and local images fast and reliably in iOS apps.
